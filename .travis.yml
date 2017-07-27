@@ -2,8 +2,7 @@ sudo: false
 language: node_js
 dist: trusty
 node:
-- iojs
-- '7'
+- '0.10'
 cache:
   directories:
   - node_modules
