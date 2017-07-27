@@ -10,4 +10,5 @@ cache:
 deploy:
   provider: npm
   email: sharma02gaurav@gmail.com
-  api_key: '628bffb5-fd6b-4d9b-9026-aa4644592dfc'
+  api_key:
+    secure: ixrA0W+y5GtQUragOj5WJtxSUHAd6wXMdopjD82UrId5d7fkNeY0s3xVClSpSDRWPNQR2G5SFkT1qntIZzlbJJXSTFqfG3EvJpckcnviXFRHDxR3h2Fw8/h780/nsIadfjiVXP6bScxDbUfg7Jx/2pRzERRqv2usJ345CGIO1gcTrwHt4401p7WWYd7Ewjxy+gpnq8DVxSc0cpR+aIYqiMTE+Z6AJfs7NXt/Eoi1qB6zLxDCF5tL8KZ/TShgnuIAj/YxxadmXYWupJ3+aIbT+v2ApZXAbtXxZyXtXhUz1sNU/78y+pZldWCkKCNgGwtK2xCnxIn+OtuIlKeriuk4WS6tyYfXAP21oRwZo/ByP/o5ZAVkp6rFI+vGukoCVoAHMCZGhfj9si6kB4lpdu7OYy+BphZL/eznD9E7CjyCreYsx0HRvq4N4S0PkYzeJjlZlBVrjztI2cbai7fK+09HpqTrkV8CRDEasfdkicqb9r0b3rwSYWGR8bD3x9/3ka3UHz3sbjSttBn+O8KUCuIXETcvzAzHGp/UGhl6X62YePvXZ/15p9LoeKK7XfmHxwx84whQtZh4o1RwGvj9+gagWCEtUOnvJIL+Bcl0eafNagGVYfrB7PB/tBjZR3bV0UIj6nbBvZYuWZUTD7RS3/SB9GhfpxQSE68y25xNkfsM9lE=
