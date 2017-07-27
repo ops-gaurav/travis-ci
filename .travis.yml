@@ -1,8 +1,8 @@
 sudo: required
 language: node_js
 dist: trusty
-node:
-- '7'
+node_js:
+- 8
 cache:
   directories:
   - node_modules
