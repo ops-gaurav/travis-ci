@@ -2,8 +2,13 @@ sudo: false
 language: node_js
 dist: trusty
 node:
-  - "iojs"
-  - "7"
+- iojs
+- '7'
 cache:
   directories:
-    - "node_modules"
+  - node_modules
+deploy:
+  provider: npm
+  email: sharma02gaurav@gmail.com
+  api_key:
+    secure: ACNmPrwxgNFJakf1ZBgwI5kdYBkJhiRu4KrCKY5bBPespfl50pHe/cMJmAo42KXiFoK8/zWV7SIbgOST/IeNmCA/C2vUB5G/6rTtV1x1UUKHZ2d2D5/ok80KIEGDjRWQEgb1wUKK70qn4XWh1NgIQxoT2zLS6YTkRzLL5fd2/3vgBuvYB3bFpGuY43yTIw6SZbgYmgu0fH7crvaHVMLkeFalDXmk1L0MWmPYt70dREuc81hShv9gdhVikpDxF8fB6aS/CtX1x+oCDtcubku0YBqw2oYzBKhypQVxqveuqSLrORxfzKkp1kd2R1RSow77Ymy3ZD5LnRcRAggWESuBbHtFSPHxHltHNO56Xpo/17ukKNZkYdTxrFhaQjUcGdqxb7xlySrvMp4/xUON3/UvP+yZO5ed1fRf5g6P5f5IdrOxYJ57VbEF/lAFxXYxOgXHPzD/80+0a9kKr+9zene/xVOXGZmRQyWcp2kI5qC5cgxHh/rK27eI46UPmXe/MYPjeD6OOehelmGGRUO4m5Q7bqIxEQQ0xFq+dZAnDmV6NNjX723ozm72FGmYQb0CXPYeGR725IIcVyIcM10jywdTdFNUpqO4Yf+SFTiKQiYe36NowQMDYsbXm/WJwv9JJjbZs92OEkQEZudovPlBiRs9nXzk+NYCT8JjSyPubQLWyFU=
