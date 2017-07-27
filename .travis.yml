@@ -1,6 +1,6 @@
 sudo: false
 language: node_js
-dist: alpha
+dist: trusty
 node:
   - "iojs"
   - "7"
