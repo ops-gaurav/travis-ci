@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests\" && exit 1",
+    "test": "echo \"No tests\"",
     "build": "babel src --out-dir lib"
   },
   "keywords": [],
